@@ -4,6 +4,8 @@
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 <!--
 **kaykeeee1/kaykeeee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
