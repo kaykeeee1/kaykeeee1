@@ -1,5 +1,7 @@
 ## Ola me chamo Kayke 👋
 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 <!--
 **kaykeeee1/kaykeeee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
