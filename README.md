@@ -1,22 +1,24 @@
 <h1 align="center">Olá, eu sou Kayke José Evangelista dos Santos 👋</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Full Stack | 🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor Full Stack • 🎓 Estudante de Engenharia de Software
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias." />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Engenharia de Software** e apaixonado por tecnologia desde que comecei a programar.
+Sou estudante de **Engenharia de Software** e desenvolvedor Full Stack apaixonado por tecnologia e desenvolvimento de software.
 
-Gosto de desenvolver aplicações web e mobile, criar APIs, modelar bancos de dados e construir soluções que resolvem problemas reais. Estou sempre buscando aprender novas tecnologias, boas práticas de desenvolvimento e aprimorar minhas habilidades para criar sistemas modernos, eficientes e escaláveis.
+Tenho experiência no desenvolvimento de aplicações **Web** e **Mobile**, criação de **APIs REST**, integração com bancos de dados e construção de interfaces modernas e intuitivas.
 
-Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução como desenvolvedor.
+Estou sempre buscando evoluir tecnicamente, aprender novas ferramentas e aplicar boas práticas para desenvolver sistemas escaláveis, seguros e de alta qualidade.
+
+Aqui no GitHub compartilho meus projetos, estudos e experiências que fazem parte da minha trajetória como desenvolvedor.
 
 ---
 
@@ -39,7 +41,7 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
 ### ⚙️ Back-end
@@ -72,7 +74,7 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da 
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -81,7 +83,7 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da 
 
 ---
 
-## 🔥 Contribuições
+## 🔥 Sequência de Contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
@@ -91,19 +93,28 @@ Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da 
 
 ## 🎯 Objetivo
 
-Meu objetivo é crescer profissionalmente como desenvolvedor, contribuir para projetos que gerem impacto positivo e evoluir constantemente por meio de novos desafios e aprendizado contínuo.
+Busco crescer como desenvolvedor, participar de projetos desafiadores e contribuir para a criação de soluções que gerem impacto positivo por meio da tecnologia.
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📫 Contato
 
-<p>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kayke-santos-782ab623b/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="kaykeevangelista0@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="left">
+<a href="mailto:kaykeevangelista0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kayke-santos-782ab623b/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<p align="center">
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
-</p>
+<div align="center">
+
+### ⭐ Obrigado por visitar meu perfil!
+
+*"A tecnologia move o mundo. O código transforma ideias em realidade."*
+
+</div>
