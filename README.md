@@ -1,96 +1,82 @@
-<h1 align="center">Olá! 👋 Eu sou Kayke José Evangelista dos Santos</h1>
+<h1 align="center">Olá, eu sou Kayke José Evangelista dos Santos 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack • Estudante de Engenharia de Software
+💻 Desenvolvedor Full Stack | 🎓 Estudante de Engenharia de Software
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;React+•+Node.js+•+TypeScript;Sempre+aprendendo+algo+novo." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;React+%7C+Node.js+%7C+TypeScript;Sempre+aprendendo+novas+tecnologias." />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções.
+Sou estudante de **Engenharia de Software** e apaixonado por tecnologia desde que comecei a programar.
 
-Atualmente curso **Engenharia de Software** e estou sempre buscando aprimorar meus conhecimentos por meio de estudos, projetos pessoais e desafios práticos.
+Gosto de desenvolver aplicações web e mobile, criar APIs, modelar bancos de dados e construir soluções que resolvem problemas reais. Estou sempre buscando aprender novas tecnologias, boas práticas de desenvolvimento e aprimorar minhas habilidades para criar sistemas modernos, eficientes e escaláveis.
 
-Tenho interesse em desenvolvimento Web, Mobile, APIs, bancos de dados e arquitetura de software, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+Aqui no GitHub compartilho projetos, estudos e experiências que fazem parte da minha evolução como desenvolvedor.
 
 ---
 
 ## 🚀 Tecnologias
 
-### Front-end
+### 💻 Linguagens
 
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-### Back-end
+### 🎨 Front-end
 
-- Node.js
-- Express
-- PHP
-- Laravel
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### Mobile
+### ⚙️ Back-end
 
-- React Native
-- Kotlin
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
-### Banco de Dados
+### 🗄️ Banco de Dados
 
-- MySQL
-- MongoDB
-- Firebase
-- Supabase
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-### Ferramentas
+### 🛠️ Ferramentas
 
-- Git
-- GitHub
-- VS Code
-- Android Studio
-- Postman
-- Figma
-
----
-
-## 📌 Projetos em destaque
-
-🖨️ **ERP Raupp**
-
-Sistema ERP para empresas de outsourcing de impressão com módulos de:
-
-- Clientes
-- Contratos
-- Equipamentos
-- Chamados Técnicos
-- Estoque
-- Financeiro
-- Faturamento
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-🚗 **Suettam Consign**
-
-Website moderno para concessionária de veículos.
-
----
-
-## 📈 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -98,33 +84,26 @@ Website moderno para concessionária de veículos.
 ## 🔥 Contribuições
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Objetivo
 
-Meu objetivo é evoluir continuamente como desenvolvedor, criando aplicações modernas, eficientes e que entreguem valor para pessoas e empresas.
-
-Estou sempre aberto a aprender novas tecnologias, participar de projetos desafiadores e colaborar com a comunidade.
+Meu objetivo é crescer profissionalmente como desenvolvedor, contribuir para projetos que gerem impacto positivo e evoluir constantemente por meio de novos desafios e aprendizado contínuo.
 
 ---
 
-## 📫 Contato
+## 📫 Vamos nos conectar!
 
-📧 **Email:** seuemail@email.com
-
-💼 **LinkedIn:** https://linkedin.com/in/seuusuario
-
-🌐 **Portfólio:** Em desenvolvimento
+<p>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kayke-santos-782ab623b/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="kaykeevangelista0@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
+⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
 </p>
