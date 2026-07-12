@@ -1,22 +1,130 @@
-## Ola me chamo Kayke 👋
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<h1 align="center">Olá! 👋 Eu sou Kayke José Evangelista dos Santos</h1>
 
-<!--
-**kaykeeee1/kaykeeee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Desenvolvedor Full Stack • Estudante de Engenharia de Software
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack;React+•+Node.js+•+TypeScript;Sempre+aprendendo+algo+novo." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor apaixonado por tecnologia e por transformar ideias em soluções.
+
+Atualmente curso **Engenharia de Software** e estou sempre buscando aprimorar meus conhecimentos por meio de estudos, projetos pessoais e desafios práticos.
+
+Tenho interesse em desenvolvimento Web, Mobile, APIs, bancos de dados e arquitetura de software, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+
+---
+
+## 🚀 Tecnologias
+
+### Front-end
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Back-end
+
+- Node.js
+- Express
+- PHP
+- Laravel
+
+### Mobile
+
+- React Native
+- Kotlin
+
+### Banco de Dados
+
+- MySQL
+- MongoDB
+- Firebase
+- Supabase
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Android Studio
+- Postman
+- Figma
+
+---
+
+## 📌 Projetos em destaque
+
+🖨️ **ERP Raupp**
+
+Sistema ERP para empresas de outsourcing de impressão com módulos de:
+
+- Clientes
+- Contratos
+- Equipamentos
+- Chamados Técnicos
+- Estoque
+- Financeiro
+- Faturamento
+
+---
+
+🚗 **Suettam Consign**
+
+Website moderno para concessionária de veículos.
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Contribuições
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir continuamente como desenvolvedor, criando aplicações modernas, eficientes e que entreguem valor para pessoas e empresas.
+
+Estou sempre aberto a aprender novas tecnologias, participar de projetos desafiadores e colaborar com a comunidade.
+
+---
+
+## 📫 Contato
+
+📧 **Email:** seuemail@email.com
+
+💼 **LinkedIn:** https://linkedin.com/in/seuusuario
+
+🌐 **Portfólio:** Em desenvolvimento
+
+---
+
+<p align="center">
+
+⭐ Obrigado por visitar meu perfil!
+
+</p>
